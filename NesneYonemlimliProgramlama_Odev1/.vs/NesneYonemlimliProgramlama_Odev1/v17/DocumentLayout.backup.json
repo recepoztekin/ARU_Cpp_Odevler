@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rozte\\source\\repos\\NesneYonemlimliProgramlama_Odev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1152CF5-894F-44CF-96EB-56EE6F4017A1}|NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.vcxproj|C:\\Users\\rozte\\source\\repos\\NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1152CF5-894F-44CF-96EB-56EE6F4017A1}|NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.vcxproj|solutionrelative:NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NesneYonemlimliProgramlama_Odev1.cpp",
+              "DocumentMoniker": "C:\\Users\\rozte\\source\\repos\\NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.cpp",
+              "RelativeDocumentMoniker": "NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.cpp",
+              "ToolTip": "C:\\Users\\rozte\\source\\repos\\NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.cpp",
+              "RelativeToolTip": "NesneYonemlimliProgramlama_Odev1\\NesneYonemlimliProgramlama_Odev1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T22:01:05.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
