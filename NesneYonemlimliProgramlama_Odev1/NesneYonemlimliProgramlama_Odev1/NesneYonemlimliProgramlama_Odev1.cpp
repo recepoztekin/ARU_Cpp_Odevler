@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-	/*Bir program yazýnýz, kullanýcýdan adýný, soyadýný, yaþýný, boyunu (float) ve cinsiyetini (char) isteyiniz. 
-	Ardýndan bu bilgileri düzenli bir þekilde ekrana yazdýrýnýz. 
-	Çýktýnýzda tab (\t) karakterini kullanarak hizalama yapýnýz ve isim soyisim bilgisini çift týrnak (") içinde gösteriniz.
+	/*Bir program yazï¿½nï¿½z, kullanï¿½cï¿½dan adï¿½nï¿½, soyadï¿½nï¿½, yaï¿½ï¿½nï¿½, boyunu (float) ve cinsiyetini (char) isteyiniz. 
+	Ardï¿½ndan bu bilgileri dï¿½zenli bir ï¿½ekilde ekrana yazdï¿½rï¿½nï¿½z. 
+	ï¿½ï¿½ktï¿½nï¿½zda tab (\t) karakterini kullanarak hizalama yapï¿½nï¿½z ve isim soyisim bilgisini ï¿½ift tï¿½rnak (") iï¿½inde gï¿½steriniz.
 	*/
 
 
@@ -14,20 +14,20 @@ int main()
 	float boy;
 	char cinsiyet;
 
-	cout << "---- KULLANICI BÝLGÝLERÝ ----\n";
-	cout << "- Adýnýzý Girin: ";
+	cout << "---- KULLANICI Bï¿½LGï¿½LERï¿½ ----\n";
+	cout << "- Adï¿½nï¿½zï¿½ Girin: ";
 	cin >> ad;
-	cout << "- Soyadýnýzý Girin: ";
+	cout << "- Soyadï¿½nï¿½zï¿½ Girin: ";
 	cin >> soyad;
 	cout << "- Boyunuzu Metre Cinsinden Girin: ";
 	cin >> boy;
-	cout << "- Yaþýnýzý Girin: ";
+	cout << "- Yaï¿½ï¿½nï¿½zï¿½ Girin: ";
 	cin >> yas;
 	cout << "- Cinsiyetinizi Girin: ";
 	cin >> cinsiyet;
 	cout << "\n\n\n";
 
-	cout << ad << "\t" << soyad << "\t" << "Boy: " << boy << "M\t" << "Yaþ: " << yas << "\t" << "Cinsiyet: " << cinsiyet;
+	cout <<"Ad Soyad: \""<< ad << " " << soyad << "\"\t" << "Boy: " << boy << "M\t" << "YaÅŸ: " << yas << "\t" << "Cinsiyet: " << cinsiyet;
 
 
 
