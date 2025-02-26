@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-	/*Bir program yaz�n�z, kullan�c�dan ad�n�, soyad�n�, ya��n�, boyunu (float) ve cinsiyetini (char) isteyiniz. 
-	Ard�ndan bu bilgileri d�zenli bir �ekilde ekrana yazd�r�n�z. 
-	��kt�n�zda tab (\t) karakterini kullanarak hizalama yap�n�z ve isim soyisim bilgisini �ift t�rnak (") i�inde g�steriniz.
+	/*Bir program yazınız, kullanıcıdan adını, soyadını, yaşını, boyunu (float) ve cinsiyetini (char) isteyiniz.
+	Ardından bu bilgileri düzenli bir şekilde ekrana yazdırınız.
+	Çıktınızda tab (\t) karakterini kullanarak hizalama yapınız ve isim soyisim bilgisini çift tırnak (") içinde gösteriniz.
 	*/
 
 
@@ -14,14 +14,14 @@ int main()
 	float boy;
 	char cinsiyet;
 
-	cout << "---- KULLANICI B�LG�LER� ----\n";
-	cout << "- Ad�n�z� Girin: ";
+	cout << "---- KULLANICI BİLGİLERİ ----\n";
+	cout << "- Adınızı Girin: ";
 	cin >> ad;
-	cout << "- Soyad�n�z� Girin: ";
+	cout << "- Soyadınızı Girin: ";
 	cin >> soyad;
 	cout << "- Boyunuzu Metre Cinsinden Girin: ";
 	cin >> boy;
-	cout << "- Ya��n�z� Girin: ";
+	cout << "- Yaşınızı Girin: ";
 	cin >> yas;
 	cout << "- Cinsiyetinizi Girin: ";
 	cin >> cinsiyet;
