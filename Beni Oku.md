@@ -1,2 +1,2 @@
 Haftalık/günlük olarak yaptığım ödev/çalışmaları eklemekteyim.
-Dosyayı açmak için klasöre tıkladıktan sonra NesneYonemlimliProgramlama_Odev1 klasörüne ardından NesneYonemlimliProgramlama_Odev1.cpp uzantılı dosyaya tıklayarak açabilirsiniz
+Dosyaları açmak için .cpp uzantılı dosyayı tıklayın.
